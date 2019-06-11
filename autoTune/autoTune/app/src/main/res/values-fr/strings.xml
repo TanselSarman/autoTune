@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">Guitar Tuner</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="drop_d_tuning">Drop D</string>
+    <string name="open_a_tuning">Open A</string>
+    <string name="open_d_tuning">Open D</string>
+    <string name="open_g_tuning">Open G</string>
+    <string name="pref_dark_theme_title">Thème sombre</string>
+    <string name="pref_tuning_title">Accordage</string>
+    <string name="standard_tuning">Standard</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="permission">Autorisation</string>
+    <string name="permission_record_audio">L\'application doit pouvoir accéder au microphone.</string>
+    <string name="audio_record_init_error">AudioRecord n\'a pas pu être initialisé.</string>
+</resources>
